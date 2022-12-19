@@ -1,0 +1,1 @@
+console.log("this repl contain for javascript")
